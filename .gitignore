@@ -225,3 +225,10 @@ test_providers.py
 # Internal analysis artifacts (not learning material)
 analysis/
 analysis_progress.md
+
+# Local test files
+hello.py
+test_output/
+
+# Auto-generated web data
+web/src/data/generated/versions.json
